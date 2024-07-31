@@ -64,7 +64,7 @@
   "dependencies": {
     "@babel/polyfill": "7.4.3",
     "@styled-icons/fa-solid": "^10.18.0",
-    "bootstrap": "^4.5.2",
+    "bootstrap": "^5.0.0",
     "caniuse-lite": "^1.0.30001296",
     "chalk": "2.4.2",
     "components": "^0.1.0",
